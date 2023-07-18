@@ -1,0 +1,29 @@
+body{
+	text-align: center;
+	font-family: Calibri;
+}
+
+
+#globe{
+	width: 300px;
+	height: 300px;
+	background: red;
+	text-align: center;
+	margin-left: 14cm;
+	border-radius: 50%;
+}
+
+
+button{
+	padding: 5px 15px;
+	background: black;
+	color: white;
+	border-radius: 5px;
+}
+
+button:hover{
+	padding: 5px 15px;
+	background: whitesmoke;
+	color: black;
+	border-radius: 5px;
+}
